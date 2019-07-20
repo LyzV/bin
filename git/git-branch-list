@@ -1,0 +1,6 @@
+#!/bin/bash
+echo git branch -vv
+git branch -vv
+
+
+
