@@ -1,0 +1,2 @@
+#! /bin/bash
+diff -ruN . $1 > $1.patch
