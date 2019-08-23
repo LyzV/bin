@@ -1,3 +1,3 @@
 #! /bin/bash
 
-$HOME/programs/sublime_text_3/sublime_text $1
+${HOME}/programs/sublime_text_3/sublime_text $*
